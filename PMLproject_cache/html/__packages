@@ -1,0 +1,9 @@
+base
+e1071
+lattice
+ggplot2
+caret
+rpart
+MASS
+randomForest
+plot3D
